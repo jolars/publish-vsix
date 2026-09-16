@@ -21,7 +21,7 @@
     "check": "npm run format:check && npm run lint && npm test && npm run verify"
   },
   "dependencies": {
-    "@actions/core": "^2.0.0",
+    "@actions/core": "^3.0.1",
     "@vscode/vsce": "4.0.0",
     "ovsx": "1.2.0"
   },
