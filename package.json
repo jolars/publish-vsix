@@ -27,9 +27,9 @@
   },
   "devDependencies": {
     "@eslint/js": "^10.0.0",
-    "eslint": "^10.0.0",
+    "eslint": "^10.11.0",
     "globals": "^17.0.0",
-    "prettier": "^3.9.0",
-    "versionary": "1.4.0"
+    "prettier": "^3.9.8",
+    "versionary": "1.4.1"
   }
 }
