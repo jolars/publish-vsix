@@ -31,5 +31,10 @@
     "globals": "^17.14.0",
     "prettier": "^3.10.1",
     "versionary": "1.11.0"
+  },
+  "overrides": {
+    "@vscode/vsce": {
+      "minimatch": "^11.0.9"
+    }
   }
 }
